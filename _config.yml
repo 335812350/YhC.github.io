@@ -12,7 +12,7 @@ title                    : "Yinghong Chen / Site Title"
 title_separator          : "-"
 name                     : &name "Yinghong Chen"
 description              : &description "personal description"
-url                      : "https://335812350.github.io"
+URL                      : "https://335812350.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # "335812350/YhC.github.io"
 
