@@ -21,7 +21,7 @@ repository               : # "335812350/YhC.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cyh.png"
+  avatar           : # "cyh.png"
   name             : "Yinghong Chen"
   pronouns         : # example: "she/her"  
   bio              : "SCNU"
