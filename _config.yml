@@ -14,7 +14,7 @@ name                     : &name "Yinghong Chen"
 description              : &description "personal description"
 URL                      : "https://335812350.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : # "335812350/YhC.github.io"
+repository               : "https://github.com/335812350/YhC.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
